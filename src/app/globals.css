@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dev-banner {
+  display: none !important;
+}
+
+.cl-internal-180wb59 {
+  display: none !important;
+}
